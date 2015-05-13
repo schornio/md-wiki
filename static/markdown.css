@@ -22,7 +22,7 @@ font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', se
 font-size:12px;
 line-height:1.5em;
 padding:1em;
-margin:auto;
+margin: 4em auto auto auto;
 max-width:42em;
 background:#fefefe;
 }
