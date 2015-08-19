@@ -20,3 +20,7 @@ Add `"start": "md-wiki"` to `package.json`
 ## Start
 
     npm start
+
+## Error handling
+
+For custom 404 error handling add `error/404.md`
